@@ -10,3 +10,4 @@ analyzer/**/__pycache__/
 analyzer/.pytest_cache/
 library.local.json
 *.tsbuildinfo
+.netlify/
