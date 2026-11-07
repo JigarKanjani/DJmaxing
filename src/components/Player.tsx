@@ -62,6 +62,28 @@ export function Player({ set, playback, files, onExit }: PlayerProps) {
     return () => window.removeEventListener("keydown", onKey);
   }, [snap.status, snap.holding]);
 
+  // Keep the screen awake while the party plays, so the laptop or TV never sleeps mid-set.
+  useEffect(() => {
+    if (snap.status !== "playing" || !("wakeLock" in navigator)) return;
+    let lock: WakeLockSentinel | null = null;
+    const request = () => {
+      if (document.visibilityState !== "visible") return;
+      navigator.wakeLock.request("screen").then((l) => (lock = l)).catch(() => undefined);
+    };
+    request();
+    document.addEventListener("visibilitychange", request);
+    return () => {
+      document.removeEventListener("visibilitychange", request);
+      void lock?.release().catch(() => undefined);
+    };
+  }, [snap.status]);
+
+  const stageRef = useRef<HTMLDivElement>(null);
+  const fullscreen = () => {
+    if (document.fullscreenElement) void document.exitFullscreen();
+    else void stageRef.current?.requestFullscreen().catch(() => undefined);
+  };
+
   const start = (from = 0) => {
     void engineRef.current?.start(set, from).catch((e: Error) => setInitError(e.message));
   };
@@ -85,7 +107,7 @@ export function Player({ set, playback, files, onExit }: PlayerProps) {
         </span>
       </div>
       {initError && <div className="notice error">{initError}</div>}
-      <div className="stage">
+      <div className="stage" ref={stageRef}>
         <div className="decks">
           {/* Both decks stay visible: YouTube's rules do not allow hidden or background players. */}
           <div className={deckClass("A")} style={{ order: liveDeck === "A" ? 0 : 1 }}>
@@ -147,6 +169,9 @@ export function Player({ set, playback, files, onExit }: PlayerProps) {
                 </button>
                 <button type="button" className="btn" aria-pressed={snap.holding} onClick={() => engineRef.current?.hold(!snap.holding)}>
                   {snap.holding ? "Release" : "Hold this song"}
+                </button>
+                <button type="button" className="btn ghost" onClick={fullscreen} title="Full screen for a TV or projector">
+                  Full screen
                 </button>
                 {snap.status === "finished" && (
                   <button type="button" className="btn primary" onClick={() => start(0)}>

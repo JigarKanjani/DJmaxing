@@ -132,7 +132,8 @@ describe("transition planner", () => {
   it("falls back to a short fade when timing is unknown", () => {
     const p = plan(song(), song());
     expect(p.kind).toBe("fade");
-    expect(p.overlap).toBe(1.5);
+    expect(p.overlap).toBe(3);
+    expect(p.inAlign).toBeCloseTo(playWindow(song()).start + 0); // hook lands at the handover
   });
 
   it("only cuts on devices that cannot fade", () => {

@@ -12,7 +12,10 @@ builds the set, plays each song from its best part, and hands over to the next o
   Serato with your Premium account.
 
 The repository ships with 84 well-known Hindi, Punjabi, English and Gujarati party songs, each with
-official, embeddable YouTube videos (checked November 7, 2026, see `docs/seed-sources.md`).
+official, embeddable YouTube videos (checked November 7, 2026, see `docs/seed-sources.md`). 55 of
+them have a hook found automatically from free synced lyrics (see "Hooks from lyrics" below).
+
+Live: https://djmaxing.netlify.app (Netlify, free) and https://djmaxing.vercel.app (Vercel).
 
 ## Quick start (your computer)
 
@@ -29,7 +32,14 @@ npm run dev
 Open http://127.0.0.1:5173, pick the languages, press **Build the set**, then **Start the party**
 and **Play**. Keyboard: `Space` pause, `N` next song, `H` hold the current song.
 
-## Put it online (Vercel, free)
+## Put it online (Netlify, free)
+
+`netlify.toml` and `netlify/functions/youtube-search.mts` are ready. In Netlify choose
+**Add new project > Import an existing project**, pick this repository, and deploy. Netlify then
+redeploys on every push. Add the optional variables below under **Site configuration > Environment
+variables** (`YOUTUBE_API_KEY` scoped to Functions).
+
+## Or Vercel (also free)
 
 1. Push this repository to GitHub (it can stay public).
 2. On vercel.com, choose **Add New > Project**, import the repository, keep the detected settings
@@ -97,6 +107,19 @@ Edits are stored in this browser. Use **Export JSON** to back them up, or replac
 `public/library.json` with the export and commit it, so every device gets your timings.
 
 Untimed songs still play: they start 30 seconds in and use short fades.
+
+### Hooks from lyrics
+
+**Library > Find hooks from lyrics** (or **Find hook from lyrics** in the curator) looks the song up on
+LRCLIB, a free open database of time-synced lyrics. The chorus is the block of lines that repeats
+most; play starts on its first line and hands over on a lyric line about 30 to 75 seconds later.
+Lyric times are measured on the audio release, so a hook is only set automatically when the video is
+within 4 seconds of that audio's length. These hooks are estimates: preview them with `P`.
+
+To refresh the shipped library: `npx tsx scripts/auto-hooks.ts public/library.json --write`.
+
+Songs with a hook but no beat grid hand over with a 3-second fade that starts the next song a few
+seconds early, so its chorus arrives as the previous song ends.
 
 ## Your own files and the analyser
 

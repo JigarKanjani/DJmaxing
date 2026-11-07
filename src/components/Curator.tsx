@@ -3,6 +3,7 @@ import { compatibleKeys } from "../lib/brain/camelot";
 import { barSeconds, snapToBar } from "../lib/brain/grid";
 import { parseYouTubeId, validateSong } from "../lib/library";
 import { resolveFile } from "../lib/local/LocalEngine";
+import { findHookFromLyrics, MAX_LENGTH_GAP } from "../lib/lyrics/hookFromLyrics";
 import { beatAt, fitTaps, normaliseDownbeat } from "../lib/tap";
 import { mediaTransport, youtubeTransport, type Transport } from "../lib/transport";
 import { LANGUAGES, MOODS, type Song } from "../lib/types";
@@ -159,6 +160,24 @@ export function Curator({ song, files, onSave, onClose }: CuratorProps) {
     return () => window.removeEventListener("keydown", onKey);
   }, [tap, markDownbeat, markHook, preview, onClose]);
 
+  const [lyricNote, setLyricNote] = useState<string | null>(null);
+  const lyricHook = async () => {
+    setLyricNote("Looking up synced lyrics...");
+    try {
+      const len = draft.durationSec ?? (duration > 0 ? duration : null);
+      const r = await findHookFromLyrics(draft.title, draft.artist, len);
+      if (!r.hook) return setLyricNote("No synced lyrics with a clear chorus were found. Mark the hook by ear.");
+      const gap = r.lengthGap;
+      setDraft((d) => ({ ...d, hook: { entry: r.hook!.entry, exit: r.hook!.exit } }));
+      setLyricNote(
+        `Chorus "${r.hook.chorus[0] ?? ""}" at ${formatTime(r.hook.entry)}.` +
+          (gap !== null && Math.abs(gap) > MAX_LENGTH_GAP ? ` Careful: this video is ${Math.round(gap)} s ${gap > 0 ? "longer" : "shorter"} than the audio the lyrics were timed on, so preview and adjust.` : " Press P to preview."),
+      );
+    } catch (e) {
+      setLyricNote((e as Error).message);
+    }
+  };
+
   const save = (verified: boolean) => {
     const timed = !!(draft.hook || draft.bpm);
     const out: Song = {
@@ -234,7 +253,9 @@ export function Curator({ song, files, onSave, onClose }: CuratorProps) {
               <button type="button" className="btn" onClick={() => markHook("entry")}>Hook starts</button>
               <button type="button" className="btn" onClick={() => markHook("exit")}>Hand over</button>
               <button type="button" className="btn" onClick={preview} disabled={!draft.hook}>Preview</button>
+              <button type="button" className="btn" onClick={() => void lyricHook()}>Find hook from lyrics</button>
             </div>
+            {lyricNote && <div className="notice small">{lyricNote}</div>}
           </div>
 
           <div className="stack" style={{ gap: 14 }}>

@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { blankSong, libraryJson, parseImport, parseYouTubeId } from "../lib/library";
+import { findHookFromLyrics, MAX_LENGTH_GAP } from "../lib/lyrics/hookFromLyrics";
 import { LANGUAGES, type Language, type Song } from "../lib/types";
 import { Curator } from "./Curator";
 import { LANG_LABEL, MOOD_LABEL } from "./RoomForm";
@@ -29,6 +30,7 @@ function decodeEntities(s: string): string {
 function status(s: Song): { text: string; cls: string } {
   if (s.analysis.verified) return { text: "Checked", cls: "blend" };
   if (s.hook && s.bpm) return { text: s.analysis.source === "analyzer" ? "Analysed" : "Timed", cls: "fade" };
+  if (s.hook) return { text: "Hook only", cls: "fade" };
   return { text: "Needs timing", cls: "warn" };
 }
 
@@ -44,6 +46,30 @@ export function Library({ songs, localIds, files, onSave, onRemoveLocal, onReset
   const [hits, setHits] = useState<SearchHit[] | null>(null);
   const [searching, setSearching] = useState(false);
   const [confirmReset, setConfirmReset] = useState(false);
+  const [lyricRun, setLyricRun] = useState<{ done: number; total: number; found: number } | null>(null);
+
+  /** Finds hooks for untimed songs from free synced lyrics (LRCLIB). Only trusts close length matches. */
+  const findLyricHooks = async () => {
+    const todo = songs.filter((s) => !s.hook && s.durationSec);
+    const found: Song[] = [];
+    setLyricRun({ done: 0, total: todo.length, found: 0 });
+    for (let i = 0; i < todo.length; i++) {
+      const s = todo[i]!;
+      try {
+        const r = await findHookFromLyrics(s.title, s.artist, s.durationSec ?? null);
+        if (r.hook && r.lengthGap !== null && Math.abs(r.lengthGap) <= MAX_LENGTH_GAP) {
+          found.push({ ...s, hook: { entry: r.hook.entry, exit: r.hook.exit }, analysis: { ...s.analysis, notes: `Hook from LRCLIB synced lyrics (record ${r.record?.id}). Check it in the curator.` } });
+        }
+      } catch {
+        // Lyrics service unavailable for this song; leave it untimed.
+      }
+      setLyricRun({ done: i + 1, total: todo.length, found: found.length });
+      await new Promise((res) => setTimeout(res, 200));
+    }
+    if (found.length) onSave(found);
+    setLyricRun(null);
+    onToast(`Found hooks for ${found.length} of ${todo.length} songs from synced lyrics.`);
+  };
 
   const shown = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -188,8 +214,16 @@ export function Library({ songs, localIds, files, onSave, onRemoveLocal, onReset
         </div>
         {untimed > 0 && (
           <div className="notice small">
-            {untimed} songs have no hook marked yet, so they start 30 seconds in and use short fades. Open one, tap along, and mark the hook.
+            {untimed} songs have no hook marked yet, so they start 30 seconds in. Find hooks from free synced lyrics, or open a song, tap along and mark the hook.
             Edits are saved in this browser; use Export JSON to back them up or to commit them to <span className="mono">public/library.json</span>.
+          </div>
+        )}
+        {untimed > 0 && (
+          <div className="row">
+            <button type="button" className="btn" onClick={() => void findLyricHooks()} disabled={!!lyricRun}>
+              {lyricRun ? `Checking lyrics ${lyricRun.done} of ${lyricRun.total} (${lyricRun.found} found)...` : `Find hooks from lyrics for ${untimed} songs`}
+            </button>
+            <span className="muted small">Uses LRCLIB. Only songs whose video matches the audio length get a hook.</span>
           </div>
         )}
         <div className="row">

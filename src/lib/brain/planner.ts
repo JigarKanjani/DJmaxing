@@ -46,15 +46,18 @@ export function planTransition(p: PlanInput): TransitionPlan {
   if (p.cutsOnly) return cutPlan("Cut on the downbeat (this device cannot fade embedded video).");
 
   if (!hasGrid(a) || !hasGrid(b)) {
-    const overlap = p.playback === "local" ? 3 : 1.5;
+    // No beat grid, so no beat matching. Start the next song a few seconds before its hook,
+    // so the hook still arrives as the outgoing song finishes, under an equal-power fade.
+    const overlap = p.playback === "local" ? 4 : 3;
+    const inFrom = Math.max(0, p.inEntry - overlap);
     return {
       kind: "fade",
       outAt: p.outEnd,
-      inFrom: p.inEntry,
-      inAlign: p.inEntry + overlap,
+      inFrom,
+      inAlign: inFrom + overlap,
       overlap,
       rate: 1,
-      why: "Short fade: tempo or beat grid not measured yet for one of these songs.",
+      why: b.hook ? "Fade: the next hook lands as this song ends (beat grid not measured yet)." : "Fade: timing not measured yet for one of these songs.",
     };
   }
 

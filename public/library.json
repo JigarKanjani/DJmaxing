@@ -17,7 +17,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 41.97,
+        "exit": 72.29
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 286,
@@ -31,7 +34,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 7476394, chorus repeated 67 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -50,7 +53,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 57.42,
+        "exit": 89.54
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 218,
@@ -64,7 +70,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 7848987, chorus repeated 28 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -83,7 +89,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 34.38,
+        "exit": 67.46
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 291,
@@ -97,7 +106,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 7239579, chorus repeated 183 times; video and audio lengths differ by 2 s). Energy and fame are estimates."
       }
     },
     {
@@ -116,7 +125,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 22.54,
+        "exit": 63.02
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 230,
@@ -130,7 +142,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 7135902, chorus repeated 282 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -181,7 +193,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 36.44,
+        "exit": 66.73
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 263,
@@ -195,7 +210,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 7126680, chorus repeated 357 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -214,7 +229,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 22.36,
+        "exit": 53.45
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 246,
@@ -228,7 +246,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 3961551, chorus repeated 50 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -247,7 +265,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 59.08,
+        "exit": 90.16
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 214,
@@ -261,7 +282,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 3961829, chorus repeated 102 times; video and audio lengths differ by 4 s). Energy and fame are estimates."
       }
     },
     {
@@ -280,7 +301,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 64.87,
+        "exit": 96.24
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 270,
@@ -294,7 +318,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 7721158, chorus repeated 108 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -313,7 +337,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 56.35,
+        "exit": 88.5
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 253,
@@ -327,7 +354,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 30611137, chorus repeated 27 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -410,7 +437,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 17.59,
+        "exit": 50.42
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 182,
@@ -425,7 +455,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 34366326, chorus repeated 44 times; video and audio lengths differ by 3 s). Energy and fame are estimates."
       }
     },
     {
@@ -443,7 +473,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 126.74,
+        "exit": 157.78
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 203,
@@ -457,7 +490,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 38376601, chorus repeated 45 times; video and audio lengths differ by 1 s). Energy and fame are estimates."
       }
     },
     {
@@ -572,7 +605,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 44.74,
+        "exit": 83.4
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 202,
@@ -586,7 +622,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 17999450, chorus repeated 72 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -734,7 +770,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 66.58,
+        "exit": 98.55
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 301,
@@ -748,7 +787,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 36009565, chorus repeated 89 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -832,7 +871,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 357.81,
+        "exit": 418.53
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 458,
@@ -846,7 +888,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 38510158, chorus repeated 45 times; video and audio lengths differ by -1 s). Energy and fame are estimates."
       }
     },
     {
@@ -863,7 +905,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 49.07,
+        "exit": 80.19
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 185,
@@ -877,7 +922,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 6007135, chorus repeated 21 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -960,7 +1005,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 48.46,
+        "exit": 84.14
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 278,
@@ -974,7 +1022,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 39448871, chorus repeated 86 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -992,7 +1040,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 48.44,
+        "exit": 80.03
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 145,
@@ -1006,7 +1057,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 34045804, chorus repeated 38 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1090,7 +1141,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 73.43,
+        "exit": 104.84
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 203,
@@ -1104,7 +1158,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 9808120, chorus repeated 42 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1123,7 +1177,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 31.67,
+        "exit": 85.92
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 474,
@@ -1138,7 +1195,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 32012550, chorus repeated 86 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1190,7 +1247,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 12.51,
+        "exit": 44.91
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 142,
@@ -1205,7 +1265,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 6010013, chorus repeated 92 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1222,7 +1282,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 40.36,
+        "exit": 74.72
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 172,
@@ -1236,7 +1299,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 32496065, chorus repeated 40 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1286,7 +1349,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 87.8,
+        "exit": 117.9
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 381,
@@ -1300,7 +1366,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 35218012, chorus repeated 130 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1352,7 +1418,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 47.46,
+        "exit": 82.69
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 212,
@@ -1367,7 +1436,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 23692225, chorus repeated 38 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1385,7 +1454,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 128.86,
+        "exit": 173.17
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 220,
@@ -1399,7 +1471,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 37677246, chorus repeated 82 times; video and audio lengths differ by 3 s). Energy and fame are estimates."
       }
     },
     {
@@ -1450,7 +1522,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 45.51,
+        "exit": 75.85
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 231,
@@ -1464,7 +1539,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 4845817, chorus repeated 115 times; video and audio lengths differ by -2 s). Energy and fame are estimates."
       }
     },
     {
@@ -1483,7 +1558,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 49.13,
+        "exit": 83.22
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 280,
@@ -1497,7 +1575,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 24227237, chorus repeated 28 times; video and audio lengths differ by -0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1515,7 +1593,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 30.55,
+        "exit": 62.88
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 202,
@@ -1529,7 +1610,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 8344194, chorus repeated 43 times; video and audio lengths differ by -1 s). Energy and fame are estimates."
       }
     },
     {
@@ -1548,7 +1629,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 31.28,
+        "exit": 63.82
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 276,
@@ -1563,7 +1647,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 30818514, chorus repeated 146 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1581,7 +1665,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 20.03,
+        "exit": 52.08
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 228,
@@ -1595,7 +1682,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 36756154, chorus repeated 104 times; video and audio lengths differ by 1 s). Energy and fame are estimates."
       }
     },
     {
@@ -1614,7 +1701,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 81.5,
+        "exit": 113.89
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 545,
@@ -1628,7 +1718,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 30386872, chorus repeated 41 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1645,7 +1735,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 35.3,
+        "exit": 66.57
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 151,
@@ -1659,7 +1752,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 35133309, chorus repeated 80 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1677,7 +1770,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 56.49,
+        "exit": 88.78
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 415,
@@ -1691,7 +1787,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 24563429, chorus repeated 82 times; video and audio lengths differ by -0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1741,7 +1837,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 70.22,
+        "exit": 101.79
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 233,
@@ -1756,7 +1855,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 28056839, chorus repeated 24 times; video and audio lengths differ by 2 s). Energy and fame are estimates."
       }
     },
     {
@@ -1808,7 +1907,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 29.89,
+        "exit": 61.64
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 185,
@@ -1822,7 +1924,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 17050752, chorus repeated 52 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1840,7 +1942,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 17.81,
+        "exit": 58.48
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 314,
@@ -1854,7 +1959,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 30043297, chorus repeated 108 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -1938,7 +2043,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 106.16,
+        "exit": 136.4
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 232,
@@ -1952,7 +2060,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 36030405, chorus repeated 279 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2004,7 +2112,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 20.4,
+        "exit": 51.21
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 243,
@@ -2018,7 +2129,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 29834713, chorus repeated 34 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2038,7 +2149,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 120.94,
+        "exit": 169.56
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 309,
@@ -2053,7 +2167,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 33469227, chorus repeated 184 times; video and audio lengths differ by -4 s). Energy and fame are estimates."
       }
     },
     {
@@ -2071,7 +2185,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 35.72,
+        "exit": 67.63
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 268,
@@ -2085,7 +2202,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 39585763, chorus repeated 99 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2103,7 +2220,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 122.32,
+        "exit": 153.85
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 181,
@@ -2117,7 +2237,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 1871623, chorus repeated 59 times; video and audio lengths differ by -1 s). Energy and fame are estimates."
       }
     },
     {
@@ -2135,7 +2255,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 76.92,
+        "exit": 109.39
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 240,
@@ -2149,7 +2272,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 9531577, chorus repeated 48 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2167,7 +2290,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 23.76,
+        "exit": 55.59
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 220,
@@ -2181,7 +2307,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 24962631, chorus repeated 344 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2199,7 +2325,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 15.03,
+        "exit": 45.52
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 176,
@@ -2213,7 +2342,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 5108453, chorus repeated 50 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2232,7 +2361,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 15.68,
+        "exit": 45.94
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 223,
@@ -2246,7 +2378,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 6678940, chorus repeated 14 times; video and audio lengths differ by -1 s). Energy and fame are estimates."
       }
     },
     {
@@ -2331,7 +2463,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 20.65,
+        "exit": 52.65
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 216,
@@ -2345,7 +2480,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 38216716, chorus repeated 68 times; video and audio lengths differ by 2 s). Energy and fame are estimates."
       }
     },
     {
@@ -2429,7 +2564,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 13.85,
+        "exit": 43.97
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 218,
@@ -2443,7 +2581,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 16381722, chorus repeated 81 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2461,7 +2599,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 50.83,
+        "exit": 83.88
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 187,
@@ -2475,7 +2616,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 8001725, chorus repeated 32 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2494,7 +2635,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 47.72,
+        "exit": 81.24
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 163,
@@ -2509,7 +2653,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 29440416, chorus repeated 22 times; video and audio lengths differ by -1 s). Energy and fame are estimates."
       }
     },
     {
@@ -2527,7 +2671,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 36.4,
+        "exit": 66.93
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 237,
@@ -2541,7 +2688,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 7864637, chorus repeated 48 times; video and audio lengths differ by -1 s). Energy and fame are estimates."
       }
     },
     {
@@ -2560,7 +2707,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 20.28,
+        "exit": 52.26
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 163,
@@ -2574,7 +2724,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 16397572, chorus repeated 57 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2593,7 +2743,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 24.91,
+        "exit": 57.44
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 234,
@@ -2607,7 +2760,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 6710849, chorus repeated 56 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2625,7 +2778,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 26.57,
+        "exit": 57.43
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 171,
@@ -2639,7 +2795,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 6708488, chorus repeated 57 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2657,7 +2813,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 136.08,
+        "exit": 169.13
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 202,
@@ -2671,7 +2830,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 35867826, chorus repeated 44 times; video and audio lengths differ by 1 s). Energy and fame are estimates."
       }
     },
     {
@@ -2689,7 +2848,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 14.3,
+        "exit": 44.79
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 222,
@@ -2703,7 +2865,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 20126985, chorus repeated 108 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     },
     {
@@ -2722,7 +2884,10 @@
       "bpm": null,
       "camelot": null,
       "beatGrid": null,
-      "hook": null,
+      "hook": {
+        "entry": 29.64,
+        "exit": 61.35
+      },
       "vocals": null,
       "loudnessLufs": null,
       "durationSec": 256,
@@ -2737,7 +2902,7 @@
       "analysis": {
         "source": "estimate",
         "verified": false,
-        "notes": "energy and fame are estimates; timing not measured"
+        "notes": "Hook from LRCLIB synced lyrics (record 31086513, chorus repeated 1543 times; video and audio lengths differ by 0 s). Energy and fame are estimates."
       }
     }
   ]

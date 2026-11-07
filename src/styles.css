@@ -140,3 +140,7 @@ input[type="range"] { accent-color: var(--accent); width: 100%; }
 .timeline .head { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--pink); }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* Full screen party view: decks fill the screen, controls stay readable. */
+.stage:fullscreen { background: var(--bg); padding: 16px; overflow: auto; grid-template-columns: minmax(0, 1fr) 320px; }
+.stage:fullscreen .deck.live { max-height: calc(100vh - 260px); }

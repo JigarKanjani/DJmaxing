@@ -24,9 +24,9 @@ const OVERRIDE = process.env.E2E_VIDEO || null;
   const english = lib.songs.filter((s) => s.language === "english").slice(0, 6);
   const timed = english.map((s) => ({
     ...s,
-    bpm: 120,
+    bpm: process.env.E2E_NO_GRID ? null : 120,
     camelot: "8A",
-    beatGrid: { firstDownbeat: 0.5, beatsPerBar: 4 },
+    beatGrid: process.env.E2E_NO_GRID ? null : { firstDownbeat: 0.5, beatsPerBar: 4 },
     hook: { entry: 40.5, exit: 56.5 },
     media: OVERRIDE ? { ...s.media, youtube: [OVERRIDE] } : s.media,
     analysis: { source: "manual", verified: true },
