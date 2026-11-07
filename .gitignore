@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.vercel/
+coverage/
+*.log
+analyzer/.venv/
+analyzer/**/__pycache__/
+analyzer/.pytest_cache/
+library.local.json
+*.tsbuildinfo

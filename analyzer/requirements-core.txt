@@ -1,0 +1,9 @@
+# Core tier. Versions are the ones installed and tested with Python 3.13.
+numpy==2.5.4
+scipy==1.18.1
+soundfile==0.14.0
+librosa==1.0.0
+pyloudnorm==0.2.0
+mutagen==1.48.1
+# Tests
+pytest==9.2.0

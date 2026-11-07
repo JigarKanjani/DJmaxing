@@ -1,0 +1,2744 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "id": "cant-stop-the-feeling-justin-timberlake",
+      "title": "Can't Stop the Feeling!",
+      "artist": "Justin Timberlake",
+      "language": "english",
+      "moods": [
+        "pop",
+        "dance",
+        "party"
+      ],
+      "year": 2016,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 286,
+      "media": {
+        "youtube": [
+          "ru0K8uYEZWw"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "hips-dont-lie-shakira",
+      "title": "Hips Don't Lie",
+      "artist": "Shakira, Wyclef Jean",
+      "language": "english",
+      "moods": [
+        "dance",
+        "party",
+        "pop"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 218,
+      "media": {
+        "youtube": [
+          "DUT5rEU6pqM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "i-gotta-feeling-the-black-eyed-peas",
+      "title": "I Gotta Feeling",
+      "artist": "The Black Eyed Peas",
+      "language": "english",
+      "moods": [
+        "party",
+        "pop",
+        "edm"
+      ],
+      "year": 2009,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 291,
+      "media": {
+        "youtube": [
+          "uSD4vsh1zDA"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "levitating-dua-lipa",
+      "title": "Levitating",
+      "artist": "Dua Lipa, DaBaby",
+      "language": "english",
+      "moods": [
+        "pop",
+        "dance",
+        "party"
+      ],
+      "year": 2020,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 230,
+      "media": {
+        "youtube": [
+          "TUVcZfQe-Kw"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "party-rock-anthem-lmfao",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO, Lauren Bennett, GoonRock",
+      "language": "english",
+      "moods": [
+        "party",
+        "edm",
+        "dance"
+      ],
+      "year": 2011,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 376,
+      "media": {
+        "youtube": [
+          "KQ6zr6kCPj8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "shape-of-you-ed-sheeran",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "language": "english",
+      "moods": [
+        "pop",
+        "party"
+      ],
+      "year": 2017,
+      "energy": 6,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 263,
+      "media": {
+        "youtube": [
+          "JGwWNGJdvx8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "shut-up-and-dance-walk-the-moon",
+      "title": "Shut Up and Dance",
+      "artist": "WALK THE MOON",
+      "language": "english",
+      "moods": [
+        "pop",
+        "party",
+        "dance"
+      ],
+      "year": 2014,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 246,
+      "media": {
+        "youtube": [
+          "6JCLY0Rlx6Q"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "timber-pitbull",
+      "title": "Timber",
+      "artist": "Pitbull, Kesha",
+      "language": "english",
+      "moods": [
+        "party",
+        "edm",
+        "dance"
+      ],
+      "year": 2013,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 214,
+      "media": {
+        "youtube": [
+          "hHUbLv4ThOo"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "uptown-funk-mark-ronson",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson, Bruno Mars",
+      "language": "english",
+      "moods": [
+        "party",
+        "dance",
+        "pop"
+      ],
+      "year": 2014,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 270,
+      "media": {
+        "youtube": [
+          "OPf0YbXqDm0"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "yeah-usher",
+      "title": "Yeah!",
+      "artist": "Usher, Lil Jon, Ludacris",
+      "language": "english",
+      "moods": [
+        "party",
+        "hiphop",
+        "dance"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 253,
+      "media": {
+        "youtube": [
+          "GxBSyx85Kp8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "char-bangdi-vadi-gadi-kinjal-dave",
+      "title": "Char Bangdi Vadi Gadi",
+      "artist": "Kinjal Dave",
+      "language": "gujarati",
+      "moods": [
+        "garba",
+        "dance",
+        "wedding"
+      ],
+      "year": 2017,
+      "energy": 8,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 334,
+      "media": {
+        "youtube": [
+          "xkR9KqFwPsA"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "sanedo-jignesh-barot",
+      "title": "Sanedo",
+      "artist": "Jignesh Barot",
+      "language": "gujarati",
+      "moods": [
+        "garba",
+        "dance"
+      ],
+      "year": 2025,
+      "energy": 8,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 464,
+      "media": {
+        "youtube": [
+          "2l-JHpsRVJE"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "aaj-ki-raat-madhubanti-bagchi",
+      "title": "Aaj Ki Raat",
+      "artist": "Madhubanti Bagchi, Divya Kumar",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2024,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 182,
+      "media": {
+        "youtube": [
+          "roz9sXFkTuE",
+          "hxMNYkLN7tI"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "aankh-marey-neha-kakkar",
+      "title": "Aankh Marey",
+      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2018,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 203,
+      "media": {
+        "youtube": [
+          "_KhQT-LGb-4"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "abhi-toh-party-shuru-hui-hai-badshah",
+      "title": "Abhi Toh Party Shuru Hui Hai",
+      "artist": "Badshah, Aastha Gill",
+      "language": "hindi",
+      "moods": [
+        "party",
+        "dance",
+        "hiphop"
+      ],
+      "year": 2014,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 189,
+      "media": {
+        "youtube": [
+          "8LZgzAZ2lpQ"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "badtameez-dil-benny-dayal",
+      "title": "Badtameez Dil",
+      "artist": "Benny Dayal, Shefali Alvares",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2013,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 271,
+      "media": {
+        "youtube": [
+          "II2EO3Nw4m0"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "balam-pichkari-vishal-dadlani",
+      "title": "Balam Pichkari",
+      "artist": "Vishal Dadlani, Shalmali Kholgade",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2013,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 260,
+      "media": {
+        "youtube": [
+          "0WtRNGubWGA"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "bom-diggy-diggy-zack-knight",
+      "title": "Bom Diggy Diggy",
+      "artist": "Zack Knight, Jasmin Walia",
+      "language": "hindi",
+      "moods": [
+        "party",
+        "dance"
+      ],
+      "year": 2018,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 202,
+      "media": {
+        "youtube": [
+          "yIIGQB6EMAM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "chammak-challo-akon",
+      "title": "Chammak Challo",
+      "artist": "Akon, Hamsika Iyer",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 251,
+      "media": {
+        "youtube": [
+          "ufHLYw9q7vQ",
+          "lxB-ki-qE64"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "channa-mereya-arijit-singh",
+      "title": "Channa Mereya",
+      "artist": "Arijit Singh",
+      "language": "hindi",
+      "moods": [
+        "romantic",
+        "sad"
+      ],
+      "year": null,
+      "energy": 4,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 183,
+      "media": {
+        "youtube": [
+          "284Ov7ysmfA"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "chogada-darshan-raval",
+      "title": "Chogada",
+      "artist": "Darshan Raval, Asees Kaur",
+      "language": "hindi",
+      "moods": [
+        "garba",
+        "dance",
+        "party"
+      ],
+      "year": 2018,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 275,
+      "media": {
+        "youtube": [
+          "yr7JFNsz5dU"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "choli-ke-peeche-alka-yagnik",
+      "title": "Choli Ke Peeche",
+      "artist": "Alka Yagnik, Ila Arun",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "dance"
+      ],
+      "year": null,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 324,
+      "media": {
+        "youtube": [
+          "3OXiqmUhB70"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "desi-girl-sunidhi-chauhan",
+      "title": "Desi Girl",
+      "artist": "Sunidhi Chauhan, Vishal Dadlani, Shankar Mahadevan",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 301,
+      "media": {
+        "youtube": [
+          "wDIrpvH8MzE"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "dholida-janhvi-shrimankar",
+      "title": "Dholida",
+      "artist": "Janhvi Shrimankar, Shail Hada",
+      "language": "hindi",
+      "moods": [
+        "garba",
+        "dance"
+      ],
+      "year": 2022,
+      "energy": 8,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 189,
+      "media": {
+        "youtube": [
+          "uv9Dv6fzg9w",
+          "Jh_VKJAEnUY"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "dhoom-machale-sunidhi-chauhan",
+      "title": "Dhoom Machale",
+      "artist": "Sunidhi Chauhan",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 301,
+      "media": {
+        "youtube": [
+          "2uUmHTgT65I"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "didi-tera-devar-deewana-lata-mangeshkar",
+      "title": "Didi Tera Devar Deewana",
+      "artist": "Lata Mangeshkar, S. P. Balasubrahmanyam",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "wedding",
+        "dance"
+      ],
+      "year": null,
+      "energy": 6,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 458,
+      "media": {
+        "youtube": [
+          "ZqcDGvCM_w0"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "dil-diyan-gallan-atif-aslam",
+      "title": "Dil Diyan Gallan",
+      "artist": "Atif Aslam",
+      "language": "hindi",
+      "moods": [
+        "romantic"
+      ],
+      "year": 2017,
+      "energy": 4,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 185,
+      "media": {
+        "youtube": [
+          "SAcpESN_Fk4"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "dilbar-neha-kakkar",
+      "title": "Dilbar",
+      "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2018,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 177,
+      "media": {
+        "youtube": [
+          "TRa9IMvccjg"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "dum-maro-dum-asha-bhosle",
+      "title": "Dum Maro Dum",
+      "artist": "Asha Bhosle",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "dance"
+      ],
+      "year": null,
+      "energy": 6,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 162,
+      "media": {
+        "youtube": [
+          "GUn3P5QyLRY"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "gallan-goodiyaan-yashita-sharma",
+      "title": "Gallan Goodiyaan",
+      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "wedding",
+        "party"
+      ],
+      "year": 2015,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 278,
+      "media": {
+        "youtube": [
+          "jCEdTq3j-0U"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "ghungroo-arijit-singh",
+      "title": "Ghungroo",
+      "artist": "Arijit Singh, Shilpa Rao",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2019,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 145,
+      "media": {
+        "youtube": [
+          "qFkNATtc3mc"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "i-am-a-disco-dancer-vijay-benedict",
+      "title": "I Am a Disco Dancer",
+      "artist": "Vijay Benedict",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "dance"
+      ],
+      "year": null,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 450,
+      "media": {
+        "youtube": [
+          "7JdEZoffm-Q"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "its-the-time-to-disco-vasundhara-das",
+      "title": "It's the Time to Disco",
+      "artist": "Vasundhara Das, Shaan, Loy Mendonsa, KK",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party",
+        "retro"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 310,
+      "media": {
+        "youtube": [
+          "Y8ZN7QjQcP0",
+          "M03GOY5eINg"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "jhoome-jo-pathaan-arijit-singh",
+      "title": "Jhoome Jo Pathaan",
+      "artist": "Arijit Singh, Sukriti Kakar",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2022,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 203,
+      "media": {
+        "youtube": [
+          "YxWlaYCA8MU"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "kajra-re-alisha-chinai",
+      "title": "Kajra Re",
+      "artist": "Alisha Chinai, Shankar Mahadevan, Javed Ali",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party",
+        "wedding"
+      ],
+      "year": null,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 474,
+      "media": {
+        "youtube": [
+          "4dsFQFCvVGU",
+          "plUxChXs3w8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "kala-chashma-badshah",
+      "title": "Kala Chashma",
+      "artist": "Badshah, Neha Kakkar",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party",
+        "wedding"
+      ],
+      "year": 2016,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 173,
+      "media": {
+        "youtube": [
+          "k4yXQkG2s1E"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "kar-gayi-chull-badshah",
+      "title": "Kar Gayi Chull",
+      "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party",
+        "hiphop"
+      ],
+      "year": 2016,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 142,
+      "media": {
+        "youtube": [
+          "NTHz9ephYTw",
+          "-sWXx1mbgtU"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "kesariya-arijit-singh",
+      "title": "Kesariya",
+      "artist": "Arijit Singh",
+      "language": "hindi",
+      "moods": [
+        "romantic"
+      ],
+      "year": 2022,
+      "energy": 4,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 172,
+      "media": {
+        "youtube": [
+          "BddP6PYo2gs"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "koi-kahe-kehta-rahe-shankar-mahadevan",
+      "title": "Koi Kahe Kehta Rahe",
+      "artist": "Shankar Mahadevan, Shaan, KK",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 326,
+      "media": {
+        "youtube": [
+          "ctJI7pCbxAo"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "kun-faya-kun-a-r-rahman",
+      "title": "Kun Faya Kun",
+      "artist": "A. R. Rahman, Javed Ali, Mohit Chauhan",
+      "language": "hindi",
+      "moods": [
+        "sufi",
+        "devotional"
+      ],
+      "year": 2011,
+      "energy": 3,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 381,
+      "media": {
+        "youtube": [
+          "T94PHkuydcw"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "london-thumakda-labh-janjua",
+      "title": "London Thumakda",
+      "artist": "Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "wedding",
+        "party"
+      ],
+      "year": 2014,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 215,
+      "media": {
+        "youtube": [
+          "udra3Mfw2oo"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "lungi-dance-yo-yo-honey-singh",
+      "title": "Lungi Dance",
+      "artist": "Yo Yo Honey Singh",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party",
+        "hiphop"
+      ],
+      "year": 2013,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 212,
+      "media": {
+        "youtube": [
+          "69CEiHfS_mc",
+          "fbwCgt1hMD4"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "malhari-vishal-dadlani",
+      "title": "Malhari",
+      "artist": "Vishal Dadlani",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 220,
+      "media": {
+        "youtube": [
+          "l_MyUGq7pgs"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "mauja-hi-mauja-mika-singh",
+      "title": "Mauja Hi Mauja",
+      "artist": "Mika Singh",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party",
+        "bhangra"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 228,
+      "media": {
+        "youtube": [
+          "PaDaoNnOQaM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "mehbooba-mehbooba-r-d-burman",
+      "title": "Mehbooba Mehbooba",
+      "artist": "R. D. Burman",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "dance"
+      ],
+      "year": null,
+      "energy": 6,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 231,
+      "media": {
+        "youtube": [
+          "ByAbV-MKDgs"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "mehndi-laga-ke-rakhna-lata-mangeshkar",
+      "title": "Mehndi Laga Ke Rakhna",
+      "artist": "Lata Mangeshkar, Udit Narayan",
+      "language": "hindi",
+      "moods": [
+        "wedding",
+        "dance",
+        "retro"
+      ],
+      "year": null,
+      "energy": 6,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 280,
+      "media": {
+        "youtube": [
+          "-bNwqXvMuB8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "nachde-ne-saare-jasleen-royal",
+      "title": "Nachde Ne Saare",
+      "artist": "Jasleen Royal, Harshdeep Kaur, Siddharth Mahadevan",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "wedding"
+      ],
+      "year": 2016,
+      "energy": 8,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 202,
+      "media": {
+        "youtube": [
+          "HgIW7P4dsXU"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "nagada-sang-dhol-shreya-ghoshal",
+      "title": "Nagada Sang Dhol",
+      "artist": "Shreya Ghoshal, Osman Mir",
+      "language": "hindi",
+      "moods": [
+        "garba",
+        "dance",
+        "wedding"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 276,
+      "media": {
+        "youtube": [
+          "vK5E_aeBGYA",
+          "3X7x4Ye-tqo"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "nashe-si-chadh-gayi-arijit-singh",
+      "title": "Nashe Si Chadh Gayi",
+      "artist": "Arijit Singh",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2016,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 228,
+      "media": {
+        "youtube": [
+          "HoCwa6gnmM0"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "om-shanti-om-kishore-kumar",
+      "title": "Om Shanti Om",
+      "artist": "Kishore Kumar",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 545,
+      "media": {
+        "youtube": [
+          "BF5tVDJCAUM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "raataan-lambiyan-jubin-nautiyal",
+      "title": "Raataan Lambiyan",
+      "artist": "Jubin Nautiyal, Asees Kaur",
+      "language": "hindi",
+      "moods": [
+        "romantic"
+      ],
+      "year": 2021,
+      "energy": 5,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 151,
+      "media": {
+        "youtube": [
+          "gvyUuxdRdR4"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "saajanji-ghar-aaye-alka-yagnik",
+      "title": "Saajanji Ghar Aaye",
+      "artist": "Alka Yagnik, Kumar Sanu",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "wedding"
+      ],
+      "year": null,
+      "energy": 5,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 415,
+      "media": {
+        "youtube": [
+          "8XtXLVylOoU"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "sheila-ki-jawani-sunidhi-chauhan",
+      "title": "Sheila Ki Jawani",
+      "artist": "Sunidhi Chauhan, Vishal Dadlani",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 270,
+      "media": {
+        "youtube": [
+          "ZTmF2v59CtI"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "swag-se-swagat-vishal-dadlani",
+      "title": "Swag Se Swagat",
+      "artist": "Vishal Dadlani, Neha Bhasin",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 233,
+      "media": {
+        "youtube": [
+          "7TRFf7uUfhQ",
+          "xmU0s2QtaEY"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "tamma-tamma-loge-bappi-lahiri",
+      "title": "Tamma Tamma Loge",
+      "artist": "Bappi Lahiri, Anuradha Paudwal",
+      "language": "hindi",
+      "moods": [
+        "retro",
+        "dance",
+        "party"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 474,
+      "media": {
+        "youtube": [
+          "Xs5k7d6kzh8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "tareefan-badshah",
+      "title": "Tareefan",
+      "artist": "Badshah, Qaran",
+      "language": "hindi",
+      "moods": [
+        "party",
+        "hiphop",
+        "dance"
+      ],
+      "year": 2018,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 185,
+      "media": {
+        "youtube": [
+          "3SWc5G8Gx7E"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "tujhe-dekha-to-lata-mangeshkar",
+      "title": "Tujhe Dekha To",
+      "artist": "Lata Mangeshkar, Kumar Sanu",
+      "language": "hindi",
+      "moods": [
+        "romantic",
+        "retro"
+      ],
+      "year": null,
+      "energy": 4,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 314,
+      "media": {
+        "youtube": [
+          "cNV5hLSa9H8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "tum-hi-ho-arijit-singh",
+      "title": "Tum Hi Ho",
+      "artist": "Arijit Singh",
+      "language": "hindi",
+      "moods": [
+        "romantic",
+        "sad"
+      ],
+      "year": 2013,
+      "energy": 3,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 310,
+      "media": {
+        "youtube": [
+          "IJq0yyWug1k"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "what-jhumka-arijit-singh",
+      "title": "What Jhumka?",
+      "artist": "Arijit Singh, Jonita Gandhi",
+      "language": "hindi",
+      "moods": [
+        "dance",
+        "wedding",
+        "party"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 223,
+      "media": {
+        "youtube": [
+          "P1fIdFRnfqw",
+          "87JIOAX3njM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "amplifier-imran-khan",
+      "title": "Amplifier",
+      "artist": "Imran Khan",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "hiphop"
+      ],
+      "year": 2009,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 232,
+      "media": {
+        "youtube": [
+          "uuCFRaFWjwY"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "angreji-beat-gippy-grewal",
+      "title": "Angreji Beat",
+      "artist": "Gippy Grewal, Yo Yo Honey Singh",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "bhangra",
+        "hiphop"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 247,
+      "media": {
+        "youtube": [
+          "YEf_hnXBbyI",
+          "Bj3a53PYt5A"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "blue-eyes-yo-yo-honey-singh",
+      "title": "Blue Eyes",
+      "artist": "Yo Yo Honey Singh",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "hiphop"
+      ],
+      "year": 2013,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 243,
+      "media": {
+        "youtube": [
+          "NbyHNASFi6U"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "bolo-ta-ra-ra-daler-mehndi",
+      "title": "Bolo Ta Ra Ra",
+      "artist": "Daler Mehndi",
+      "language": "punjabi",
+      "moods": [
+        "bhangra",
+        "wedding",
+        "party",
+        "retro"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 309,
+      "media": {
+        "youtube": [
+          "BjlkPLaHRf4",
+          "h6Ze5Hqa1wA"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "brown-munde-ap-dhillon",
+      "title": "Brown Munde",
+      "artist": "AP Dhillon, Gurinder Gill, Shinda Kahlon",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "hiphop"
+      ],
+      "year": null,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 268,
+      "media": {
+        "youtube": [
+          "VNs_cCtdbPc"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "brown-rang-yo-yo-honey-singh",
+      "title": "Brown Rang",
+      "artist": "Yo Yo Honey Singh",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "hiphop"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 181,
+      "media": {
+        "youtube": [
+          "ZbKaRZFnqn8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "daru-badnaam-kamal-kahlon",
+      "title": "Daru Badnaam",
+      "artist": "Kamal Kahlon, Param Singh",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "bhangra"
+      ],
+      "year": 2016,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 240,
+      "media": {
+        "youtube": [
+          "bzW9fmwcmG4"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "do-you-know-diljit-dosanjh",
+      "title": "Do You Know",
+      "artist": "Diljit Dosanjh",
+      "language": "punjabi",
+      "moods": [
+        "romantic",
+        "party"
+      ],
+      "year": 2016,
+      "energy": 6,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 220,
+      "media": {
+        "youtube": [
+          "P-DhwN87JDY"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "excuses-ap-dhillon",
+      "title": "Excuses",
+      "artist": "AP Dhillon, Gurinder Gill, Intense",
+      "language": "punjabi",
+      "moods": [
+        "romantic",
+        "party"
+      ],
+      "year": 2020,
+      "energy": 6,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 176,
+      "media": {
+        "youtube": [
+          "vX2cDW8LUWk"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "goat-diljit-dosanjh",
+      "title": "G.O.A.T.",
+      "artist": "Diljit Dosanjh",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "hiphop",
+        "gym"
+      ],
+      "year": 2020,
+      "energy": 8,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 223,
+      "media": {
+        "youtube": [
+          "cl0a3i2wFcc"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "gallan-kardi-jazzy-b",
+      "title": "Gallan Kardi",
+      "artist": "Jazzy B, Jyotica Tangri",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "bhangra",
+        "dance"
+      ],
+      "year": 2020,
+      "energy": 8,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 185,
+      "media": {
+        "youtube": [
+          "eHjwuNhJXw4"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "gur-nalon-ishq-mitha-bally-sagoo",
+      "title": "Gur Nalon Ishq Mitha",
+      "artist": "Bally Sagoo, Malkit Singh",
+      "language": "punjabi",
+      "moods": [
+        "bhangra",
+        "wedding",
+        "retro"
+      ],
+      "year": null,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 219,
+      "media": {
+        "youtube": [
+          "_rGz16v3CUM",
+          "OAKag1aFDy8"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "high-rated-gabru-guru-randhawa",
+      "title": "High Rated Gabru",
+      "artist": "Guru Randhawa",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "dance"
+      ],
+      "year": 2017,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 216,
+      "media": {
+        "youtube": [
+          "hjWf8A0YNSE"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "ishq-tera-tadpave-oh-ho-ho-ho-sukhbir",
+      "title": "Ishq Tera Tadpave (Oh Ho Ho Ho)",
+      "artist": "Sukhbir",
+      "language": "punjabi",
+      "moods": [
+        "bhangra",
+        "party",
+        "wedding"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 235,
+      "media": {
+        "youtube": [
+          "-99Z8E1pOrs"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "lahore-guru-randhawa",
+      "title": "Lahore",
+      "artist": "Guru Randhawa",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "dance"
+      ],
+      "year": 2017,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 234,
+      "media": {
+        "youtube": [
+          "dZ0fwJojhrs"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "lamberghini-the-doorbeen",
+      "title": "Lamberghini",
+      "artist": "The Doorbeen, Ragini",
+      "language": "punjabi",
+      "moods": [
+        "wedding",
+        "party",
+        "dance"
+      ],
+      "year": 2018,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 218,
+      "media": {
+        "youtube": [
+          "5X7WWVTrBvM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "lover-diljit-dosanjh",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "language": "punjabi",
+      "moods": [
+        "romantic",
+        "party"
+      ],
+      "year": 2021,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 187,
+      "media": {
+        "youtube": [
+          "mH_LFkWxpI0"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "morni-banke-guru-randhawa",
+      "title": "Morni Banke",
+      "artist": "Guru Randhawa, Neha Kakkar",
+      "language": "punjabi",
+      "moods": [
+        "wedding",
+        "dance",
+        "party"
+      ],
+      "year": 2018,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 163,
+      "media": {
+        "youtube": [
+          "1EadhOBcfI0",
+          "MhgURCPNoD0"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "mundian-to-bach-ke-panjabi-mc",
+      "title": "Mundian To Bach Ke",
+      "artist": "Panjabi MC",
+      "language": "punjabi",
+      "moods": [
+        "bhangra",
+        "party"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 237,
+      "media": {
+        "youtube": [
+          "x9WO2ieJMYk"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "proper-patola-diljit-dosanjh",
+      "title": "Proper Patola",
+      "artist": "Diljit Dosanjh, Badshah",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "bhangra",
+        "hiphop"
+      ],
+      "year": 2013,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 163,
+      "media": {
+        "youtube": [
+          "GVhmynWOPoM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "so-high-sidhu-moose-wala",
+      "title": "So High",
+      "artist": "Sidhu Moose Wala, BYG BYRD",
+      "language": "punjabi",
+      "moods": [
+        "hiphop",
+        "party",
+        "gym"
+      ],
+      "year": 2017,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 234,
+      "media": {
+        "youtube": [
+          "GgmFC8y8q3k"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "softly-karan-aujla",
+      "title": "Softly",
+      "artist": "Karan Aujla",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "hiphop"
+      ],
+      "year": 2023,
+      "energy": 7,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 171,
+      "media": {
+        "youtube": [
+          "cWMxCE2HTag"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "suit-guru-randhawa",
+      "title": "Suit",
+      "artist": "Guru Randhawa, Arjun",
+      "language": "punjabi",
+      "moods": [
+        "party",
+        "dance"
+      ],
+      "year": 2016,
+      "energy": 7,
+      "fame": 2,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 202,
+      "media": {
+        "youtube": [
+          "uQ763VvqiEM"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "tauba-tauba-karan-aujla",
+      "title": "Tauba Tauba",
+      "artist": "Karan Aujla",
+      "language": "punjabi",
+      "moods": [
+        "dance",
+        "party"
+      ],
+      "year": 2024,
+      "energy": 8,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 222,
+      "media": {
+        "youtube": [
+          "LK7-_dgAVQE"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    },
+    {
+      "id": "tunak-tunak-tun-daler-mehndi",
+      "title": "Tunak Tunak Tun",
+      "artist": "Daler Mehndi",
+      "language": "punjabi",
+      "moods": [
+        "bhangra",
+        "party",
+        "retro"
+      ],
+      "year": null,
+      "energy": 9,
+      "fame": 3,
+      "bpm": null,
+      "camelot": null,
+      "beatGrid": null,
+      "hook": null,
+      "vocals": null,
+      "loudnessLufs": null,
+      "durationSec": 256,
+      "media": {
+        "youtube": [
+          "eZ2PtEx9-ls",
+          "92ydUdqWE1g"
+        ],
+        "file": null,
+        "spotifyUri": null
+      },
+      "analysis": {
+        "source": "estimate",
+        "verified": false,
+        "notes": "energy and fame are estimates; timing not measured"
+      }
+    }
+  ]
+}

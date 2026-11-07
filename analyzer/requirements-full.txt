@@ -1,0 +1,20 @@
+# Full tier = core + optional backends. Every backend is optional at run time: anything
+# missing is logged and the core method is used instead.
+-r requirements-core.txt
+
+# Key (EDMA profile). Installed and executed here (Python 3.13, Linux x86_64).
+# 2.1b6.dev1389 is the newest release found with a cp313 Linux wheel.
+essentia==2.1b6.dev1389
+
+# Beats and downbeats. Installed and executed here on CPU.
+# Install PyTorch first for your platform, for example (CPU only):
+#   pip install torch==2.11.0 torchaudio==2.11.1 --index-url https://download.pytorch.org/whl/cpu
+beat-this==1.1.0
+tqdm==4.70.1
+einops==0.8.2
+soxr==1.1.0
+rotary-embedding-torch==0.9.2
+
+# Not installed or executed here (see README.md, "Full tier"):
+#   allin1==1.1.0                     needs PyTorch, NATTEN and madmom from GitHub
+#   audio-separator[cpu]==0.48.0      or [gpu]; pulls its own PyTorch and ONNX Runtime

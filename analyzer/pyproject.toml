@@ -1,0 +1,12 @@
+[project]
+name = "djmax-analyze"
+version = "0.1.0"
+description = "Offline audio analyser that writes DJmaxing library JSON"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["djmax_analyze"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = [".", "tests"]
